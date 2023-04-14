@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ruby-verma
-- 👀 I’m interested in mobile application development(using android native, xamarin, flutter) and devops
+- 👀 I’m interested in mobile application development(using Kotlin, Xamarin, flutter) and devops
 - 🌱 I’m currently learning flutter, devops
 - 💞️ I’m looking to collaborate on android, xamarin, devops
 - 📫 How to reach me ... ruby.verma10@gmail.com
